@@ -3,7 +3,7 @@ package com.pd.templatemethod;
 public class StringDisplay extends AbstractDisplay {
     private String str;
 
-    public StringDisplay(String str) {
+    StringDisplay(String str) {
         this.str = str;
     }
 
