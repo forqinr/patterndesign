@@ -6,9 +6,9 @@ public class TicketMaker {
     private static TicketMaker ticketMaker = new TicketMaker();
 
     private TicketMaker() {
-        for (int i = 0; i < 1000000; i++) {
-            System.out.print(i);
-        }
+        //for (int i = 0; i < 1000000; i++) {
+        //    System.out.print(i);
+        //}
         System.out.println("init");
     }
 
